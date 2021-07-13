@@ -1,4 +1,4 @@
-# Webcamoid, The ultimate webcam suite! #
+# Kivy Webcam #
 
 Simple project to show how to use opencv with Kivy
 
